@@ -1,0 +1,33 @@
+.doctors{
+    display: flex;
+    justify-content: center;
+    background-color:darkseagreen;
+    height: 550px;
+}
+.name p {
+    
+    font-style:oblique;
+    color:cadetblue;
+    font-size: 50px;
+}
+.dr{
+    height: 442px;
+    width: 205px;
+    padding: 2%;
+}
+.dr img {
+    height: 350px;
+    width: 250px ;
+    border-radius: 10px;
+}
+.dr_ p {
+    font-style: italic;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.dr_ i{
+    color: green;
+    font-size: 18px;
+    font-weight: 600;
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    border: border-box;
+}
+.i{
+    background-color: blanchedalmond;
+    height: 800px;
+}
+.heading{
+    font-size: 80px;
+    font-style:JetBrains Mono;
+}
+.text{
+    display: flex;
+}
+.text img{
+    height: 700px;
+    width: 350px;
+}
+.text p{
+    padding: 20px 0px 0px 0px;
+    font-style:oblique;
+    font-size: 25px;
+}
